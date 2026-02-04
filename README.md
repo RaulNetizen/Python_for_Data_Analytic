@@ -54,7 +54,5 @@ A partir de un dataset de 1,470 empleados y 35 variables, se analizan aspectos d
 - Este proyecto permite a las áreas de Recursos Humanos:
 - Diseñar estrategias de compensación más efectivas
 - Fortalecer procesos de inducción y retención temprana
-
-Identificar señales tempranas de rotación
-
-Tomar decisiones basadas en datos para la gestión del talento
+- Identificar señales tempranas de rotación
+- Tomar decisiones basadas en datos para la gestión del talento
