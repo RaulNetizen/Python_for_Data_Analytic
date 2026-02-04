@@ -34,9 +34,9 @@ A partir de un dataset de 1,470 empleados y 35 variables, se analizan aspectos d
   - Frecuencia de viajes y distancia al trabajo
 4. Análisis Multivariado
 - Identificación de perfiles de alto riesgo combinando:
-- Bajos ingresos + horas extra
-- Baja antigüedad + menor edad
-- Confirmación de que el salario y la carga laboral influyen más en la rotación que los factores ambientales aislados
+  - Bajos ingresos + horas extra
+  - Baja antigüedad + menor edad
+  - Confirmación de que el salario y la carga laboral influyen más en la rotación que los factores ambientales aislados
 
 ## 💡 Principales Hallazgos
 - La rotación es más alta durante los primeros 0–2 años en la empresa
@@ -52,7 +52,7 @@ A partir de un dataset de 1,470 empleados y 35 variables, se analizan aspectos d
 
 ## 📈 Valor para el Negocio
 - Este proyecto permite a las áreas de Recursos Humanos:
-- Diseñar estrategias de compensación más efectivas
-- Fortalecer procesos de inducción y retención temprana
-- Identificar señales tempranas de rotación
-- Tomar decisiones basadas en datos para la gestión del talento
+  - Diseñar estrategias de compensación más efectivas
+  - Fortalecer procesos de inducción y retención temprana
+  - Identificar señales tempranas de rotación
+  - Tomar decisiones basadas en datos para la gestión del talento
