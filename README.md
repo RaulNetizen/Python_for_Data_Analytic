@@ -28,10 +28,10 @@ A partir de un dataset de 1,470 empleados y 35 variables, se analizan aspectos d
 - Comparación entre empleados que permanecen y los que renuncian
 - Evaluación de la rotación según:
   - Edad y antigüedad
-Nivel de ingresos
-Horas extra (OverTime)
-Cargo y departamento
-Frecuencia de viajes y distancia al trabajo
+  - Nivel de ingresos
+  - Horas extra (OverTime)
+  - Cargo y departamento
+  - Frecuencia de viajes y distancia al trabajo
 4. Análisis Multivariado
 - Identificación de perfiles de alto riesgo combinando:
 - Bajos ingresos + horas extra
