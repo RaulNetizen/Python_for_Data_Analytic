@@ -45,12 +45,12 @@ A partir de un dataset de 1,470 empleados y 35 variables, se analizan aspectos d
 - El departamento de Sales muestra la mayor rotación relativa
 - La juventud y una mayor distancia al lugar de trabajo incrementan el riesgo de abandono
 
-🛠️ Herramientas y Tecnologías
+## 🛠️ Herramientas y Tecnologías
 - Lenguaje: Python
 - Librerías: Pandas, NumPy, Matplotlib, Seaborn
 - Entorno: Jupyter Notebook
 
-📈 Valor para el Negocio
+## 📈 Valor para el Negocio
 - Este proyecto permite a las áreas de Recursos Humanos:
 - Diseñar estrategias de compensación más efectivas
 - Fortalecer procesos de inducción y retención temprana
